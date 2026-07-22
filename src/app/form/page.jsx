@@ -11,7 +11,7 @@ const Form = () => {
     destination: 'Masalan, Pekin',
     visaSupport: 'Masalan, Chandu'
   })
-  
+
   const [status, setStatus] = useState({
     type: null,
     message: ''
@@ -48,7 +48,7 @@ const Form = () => {
         body: JSON.stringify({
           chat_id: CHAT_ID,
           text: text,
-          parse_mode: 'HTML' 
+          parse_mode: 'HTML'
         })
       })
 
@@ -71,15 +71,15 @@ const Form = () => {
   }
 
   return (
-    <div className="w-full min-h-screen bg-gray-50 flex items-center justify-center p-4">
+    <div className="w-full bg-gray-50 flex items-center justify-center p-4">
       <div className="w-full max-w-4xl bg-white rounded-3xl p-8 md:p-12 shadow-sm border border-gray-100">
-        
+
         <h1 className="text-2xl md:text-3xl font-bold text-center text-gray-900 mb-10">
           O'z band qilish formulasi
         </h1>
 
         <form onSubmit={handleSubmit} className="space-y-6">
-          
+
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="flex flex-col space-y-2">
               <label className="text-gray-700 text-sm font-medium">Sizning ismingiz</label>

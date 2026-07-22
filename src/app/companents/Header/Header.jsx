@@ -21,6 +21,8 @@ const Header = () => {
                             width={ 120 }
                             height={ 60 }
                             className="object-contain"
+                            loading="eager"
+                            style={{ width: "auto", height: "auto" }}
                         />
                     </Link>
                 </div>
