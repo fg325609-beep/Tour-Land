@@ -2,7 +2,10 @@ import React from 'react'
 
 const Tours = () => {
   return (
-    <div>page</div>
+    <>
+    <h1>turlar sahifasi</h1>
+<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, animi.</p>
+    </>
   )
 }
 

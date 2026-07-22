@@ -2,7 +2,11 @@ import React from 'react'
 
 const Home = () => {
   return (
-    <div>page</div>
+    <>
+
+    <h1>home  sahifasi</h1>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Atque, corporis?</p>
+    </>
   )
 }
 

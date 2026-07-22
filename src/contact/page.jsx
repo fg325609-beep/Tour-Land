@@ -2,7 +2,10 @@ import React from 'react'
 
 const Contact = () => {
   return (
-    <div>page</div>
+    <>
+    <h1>contact sahifasi  </h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi, assumenda?</p>
+    </>
   )
 }
 
