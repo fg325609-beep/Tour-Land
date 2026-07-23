@@ -23,8 +23,8 @@ function Travels() {
   return (
     <section style={{ padding: '60px 0', textAlign: 'center', overflow: 'hidden' }}>
       {/* Sarlavha va matn */}
-      <div style={{ width: '100%', margin: '0 auto 40px auto', padding: '0 20px' }}>
-        <h2 style={{ fontSize: '32px', fontWeight: '700', color: '#1a1a1a', marginBottom: '16px' }}>
+      <div style={{ maxWidth: '800px', margin: '0 auto 40px auto', padding: '0 20px' }}>
+        <h2 style={{width: '100%',g fontSize: '32px', fontWeight: '700', color: '#1a1a1a', marginBottom: '16px' }}>
           Unutilmas Sayohatlar Uchun Top 10 Go'zal Maskan
         </h2>
         <p style={{ color: '#4a5568', lineHeight: '1.6', fontSize: '16px' }}>
