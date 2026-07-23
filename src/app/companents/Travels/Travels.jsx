@@ -39,7 +39,7 @@ function Travels() {
         <Swiper
           modules={[Autoplay]}
           spaceBetween={45} 
-          slidesPerView={3.4} // ASL SAYTDAGIDEK O'NG TARAFI YARIM KESILIB TURADI
+          slidesPerView={3.4}
           centeredSlides={false}
           loop={true}
           autoplay={{ delay: 3000, disableOnInteraction: false }}
