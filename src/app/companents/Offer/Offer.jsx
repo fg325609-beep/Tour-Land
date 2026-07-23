@@ -15,7 +15,7 @@ function Offer() {
           </p>
         </div>
 
-        {/* Kartochka joylashuvi */}
+       
         <div className="flex justify-start w-full">
           <div className="relative w-[330px] h-[320px] rounded-[24px] overflow-hidden shadow-sm">
             <img
