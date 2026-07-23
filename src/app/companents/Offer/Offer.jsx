@@ -19,7 +19,7 @@ function Offer() {
         <div className="flex justify-start w-full">
           <div className="relative w-[330px] h-[320px] rounded-[24px] overflow-hidden shadow-sm">
             <img
-              src="https://images.unsplash.com/photo-1503899036084-c55cdd92da26?q=80&w=800"
+              src="https://images.unsplash.com/photo-1548013146-72479768bada?q=80&w=800"
               alt="Yangi manzillar"
               className="w-full h-full object-cover block"
             />
