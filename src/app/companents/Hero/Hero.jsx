@@ -48,7 +48,6 @@ function Hero() {
 
   return (
     <div className="relative w-full h-[500px] md:h-[650px] overflow-hidden group">
-      {/* Slayder foni va kontenti */}
       <div
         className="flex flex-col items-center justify-center w-full h-full bg-slate-800 bg-cover bg-center bg-no-repeat filter brightness-90 contrast-110 transition-all duration-700 ease-in-out"
         style={{
