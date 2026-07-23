@@ -33,6 +33,6 @@ function Offer() {
       </div>
     </section>
   );
-}
+
 
 export default Offer;
