@@ -5,7 +5,7 @@ function Offer() {
     <section className="w-full bg-white py-16">
       <div className="max-w-[1240px] mx-auto px-4">
         
-        {/* Sarlavha va subtitrit (Title & Subtitle) */}
+       
         <div className="text-center mb-10">
           <h2 className="text-[32px] md:text-[36px] font-extrabold text-[#111827] mb-3 tracking-tight">
             Ushbu manzillarga eksklyuziv sayohatlar taklif qilamiz!
