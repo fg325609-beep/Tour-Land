@@ -38,7 +38,7 @@ function Travels() {
       <div style={{ width: '100%', padding: '0 40px' }}>
         <Swiper
           modules={[Autoplay]}
-          spaceBetween={45} // ORASIDAGI MASOFA O'STIRILDI (45px)
+          spaceBetween={45} 
           slidesPerView={3.4} // ASL SAYTDAGIDEK O'NG TARAFI YARIM KESILIB TURADI
           centeredSlides={false}
           loop={true}
