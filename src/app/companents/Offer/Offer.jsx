@@ -23,7 +23,6 @@ function Offer() {
               alt="Yangi manzillar"
               className="w-full h-full object-cover block"
             />
-            {/* Rasm ustidagi shaffof badge */}
             <div className="absolute bottom-6 left-1/2 -translate-x-1/2 w-[82%] py-3 px-4 bg-[#262626]/60 backdrop-blur-md rounded-xl text-white text-[15px] font-bold text-center whitespace-nowrap border border-white/10">
               Yangi manzillar tez kunda...
             </div>
@@ -33,6 +32,6 @@ function Offer() {
       </div>
     </section>
   );
-
+}
 
 export default Offer;
