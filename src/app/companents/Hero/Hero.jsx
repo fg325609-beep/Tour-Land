@@ -67,7 +67,6 @@ function Hero() {
         </button>
       </div>
 
-      {/* Chapga tugmasi */}
       <button
         onClick={prevSlide}
         className="absolute top-1/2 left-4 -translate-y-1/2 bg-black/40 hover:bg-black/70 text-white p-3 rounded-full transition-all opacity-80 group-hover:opacity-100 z-10 cursor-pointer"
@@ -75,15 +74,12 @@ function Hero() {
         ❮
       </button>
 
-      {/* O'ngga tugmasi */}
       <button
         onClick={nextSlide}
         className="absolute top-1/2 right-4 -translate-y-1/2 bg-black/40 hover:bg-black/70 text-white p-3 rounded-full transition-all opacity-80 group-hover:opacity-100 z-10 cursor-pointer"
       >
         ❯
       </button>
-
-      {/* Nuqtachalar (Indikatorlar) */}
       <div className="absolute bottom-6 left-1/2 -translate-x-1/2 flex gap-2 z-10">
         {slides.map((_, index) => (
           <button
