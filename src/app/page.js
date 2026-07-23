@@ -1,11 +1,12 @@
 import React from 'react'
 import Hero from './companents/Hero/Hero'
-import 
+import Travels from './companents/Travels/Travels'
 const Home = () => {
   return (
     <>
 
-<Hero/>
+    <Hero/>
+    <Travels/>
     </>
   )
 }
