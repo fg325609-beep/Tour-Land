@@ -27,7 +27,7 @@ function Travels() {
         <h2 style={{ fontSize: '32px', fontWeight: '700', color: '#1a1a1a', marginBottom: '16px' }}>
           Unutilmas Sayohatlar Uchun Top 10 Go'zal Maskan
         </h2>
-        <p style={{ color: '#4a5568', lineHeight: '1.6', fontSize: '16px' }}>
+        <p style={{ color: '#4a5568', lineHeight: '1.6', fontSize: '16px', alignItems: 'center'}}>
           Sizni har hafta yangi sotib va tezda sarguzashtlar kutmoqda! Har bir shahar
           o'zining aniq go'zalliklarini ochib, sizga yangi sarguzashtlar sovg'a qiladi. O'zingiz
           shu mo'jizalarning bir qismi deb uning qiling!
