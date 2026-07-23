@@ -17,7 +17,7 @@ function Travels() {
     { id: 7, img: 'https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?q=80&w=800', title: 'Osiyo shaharlari' },
     { id: 8, img: 'https://images.unsplash.com/photo-1512100356356-de1b84283e18?q=80&w=800', title: 'Tailand sohili' },
     { id: 9, img: 'https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=800', title: 'Tog\'li ko\'llar' },
-    { id: 10, img: 'https://images.unsplash.com/photo-1528164344705-47542687990d?q=80&w=800', title: 'Kyoto tabiati' },
+    { id: 10, img: 'https://images.unsplash.com/photo-1503899036084-c55cdd92da26?q=80&w=800', title: 'Kyoto tabiati' },
   ];
 
   return (
