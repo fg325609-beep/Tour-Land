@@ -59,8 +59,6 @@ export default function Interesting() {
             Xitoy noyob bog'dorchilik madaniyati va boy tarixga ega. Ushbu bo'limda sizga eng qiziqarli ma'lumotlarni taqdim etamiz.
           </p>
         </div>
-
-        {/* Faktlar ro'yxati */}
         <div className="space-y-12">
           {factsData.map((item) => (
             <div 
