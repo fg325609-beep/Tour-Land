@@ -6,13 +6,13 @@ import React from 'react';
 
 export default function Tickets() {
   
-  // Tugma bosilganda Footer qismiga avtomatik va silliq scroll qilish funksiyasi
+
   const scrollToFooter = () => {
     const footerElement = document.getElementById('footer');
     if (footerElement) {
       footerElement.scrollIntoView({ behavior: 'smooth' });
     } else {
-      // Agar #footer id-li element topilmasa, sahifaning eng pastiga scroll qiladi
+   
       window.scrollTo({
         top: document.body.scrollHeight,
         behavior: 'smooth'
