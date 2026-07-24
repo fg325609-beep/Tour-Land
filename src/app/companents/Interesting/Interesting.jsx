@@ -69,7 +69,6 @@ export default function Interesting() {
             >
               <div className="flex flex-col md:flex-row items-start gap-6 lg:gap-8">
                 
-                {/* Chap taraf: Rasm (Aynan asl saytdagidek ixcham o'lchamda) */}
                 <div className="w-full md:w-[320px] h-[210px] flex-shrink-0">
                   <img 
                     src={item.image} 
