@@ -48,7 +48,7 @@ export default function Tickets() {
           <h2 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-gray-900 mb-3">
             Biz Bilan Chiptalarni Arzon va Oson Toping.
           </h2>
-          <p className="text-blue-600 text-sm md:text-base max-w-md mx-auto leading-relaxed">
+          <p className="text-gray-700 text-sm md:text-base max-w-md mx-auto leading-relaxed">
             Har bir shaharda eng yaxshi temir yo'l va aviachipta biletlarini biz bilan toping
           </p>
         </div>
