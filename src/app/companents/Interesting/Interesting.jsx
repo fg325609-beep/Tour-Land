@@ -124,7 +124,7 @@ export default function Interesting() {
                       </div>
                     </div>
 
-                    {/* "Qiziqarlimi ? →" havolasi */}
+           
                     <div>
                       <a 
                         href="#" 
