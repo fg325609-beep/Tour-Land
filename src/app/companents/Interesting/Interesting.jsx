@@ -50,7 +50,6 @@ export default function Interesting() {
     <section className="py-12 bg-white font-sans text-gray-800" id="info">
       <div className="max-w-5xl mx-auto px-4 sm:px-6">
         
-        {/* Sarlavha qismi */}
         <div className="mb-10">
           <h2 className="text-3xl font-bold text-gray-900 mb-3">
             Xitoy haqida qiziqarli faktlar
