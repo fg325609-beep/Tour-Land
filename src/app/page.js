@@ -3,6 +3,7 @@ import Hero from './companents/Hero/Hero'
 import Travels from './companents/Travels/Travels'
 import Offer from './companents/Offer/Offer'
 import Tickets from './companents/Tickets/Tickets'
+import Interesting from './companents/Interesting/Interesting'
 const Home = () => {
   return (
     <>
@@ -11,6 +12,7 @@ const Home = () => {
     <Travels/>
     <Offer/>
     <Tickets/>
+    <Interesting/>
     </>
   )
 }
