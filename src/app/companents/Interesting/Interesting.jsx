@@ -100,7 +100,7 @@ export default function Interesting() {
                   </div>
 
                   <div>
-                    {/* Statistika ko'rsatkichlari */}
+                   
                     <div className="flex items-center gap-8 text-gray-400 text-xs pt-3 border-t border-gray-100 mb-3">
                       <div className="flex items-center gap-1.5">
                         <svg className="w-3.5 h-3.5 fill-current text-gray-400" viewBox="0 0 20 20">
