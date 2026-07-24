@@ -43,7 +43,7 @@ export default function Tickets() {
     <section className="py-12 md:py-16 bg-white font-sans text-gray-800">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         
-        {/* Section Title */}
+       
         <div className="text-center mb-12 md:mb-16">
           <h2 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-gray-900 mb-3">
             Biz Bilan Chiptalarni Arzon va Oson Toping.
@@ -53,7 +53,7 @@ export default function Tickets() {
           </p>
         </div>
 
-        {/* Tickets Cards List */}
+       
         <div className="space-y-12">
           {ticketsData.map((item) => (
             <div 
