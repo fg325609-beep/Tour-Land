@@ -77,8 +77,6 @@ export default function Interesting() {
                     className="w-full h-full object-cover rounded-[22px]"
                   />
                 </div>
-
-                {/* O'ng taraf: Barcha kontent va linklar */}
                 <div className="w-full md:flex-1 flex flex-col justify-between min-h-[210px]">
                   <div>
                     <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 mb-1">
