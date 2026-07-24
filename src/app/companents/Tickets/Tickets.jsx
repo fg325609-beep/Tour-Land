@@ -73,7 +73,7 @@ export default function Tickets() {
         
               <div className="w-full md:w-1/2 lg:w-3/5 flex flex-col justify-between pt-1">
                 <div>
-                  {/* Title and Action Button */}
+                
                   <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-2">
                     <h3 className="text-xl md:text-2xl font-bold text-gray-900">
                       {item.title}
@@ -86,12 +86,12 @@ export default function Tickets() {
                     </button>
                   </div>
 
-                  {/* Subtitle */}
+                
                   <p className="text-gray-400 text-sm mb-4">
                     {item.subtitle}
                   </p>
 
-                  {/* Description */}
+                 
                   <p className="text-gray-400 text-sm leading-relaxed max-w-2xl">
                     {item.description}
                   </p>
